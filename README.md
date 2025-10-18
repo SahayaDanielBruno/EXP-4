@@ -70,7 +70,7 @@ TABULAR COLUMN
 
 Bridge rectifier with filter and without filter:
 
-![WhatsApp Image 2025-10-17 at 8 00 47 PM](https://github.com/user-attachments/assets/de754b0a-348e-4f83-b583-9b400b590e90)
+![WhatsApp Image 2025-10-18 at 9 56 27 PM](https://github.com/user-attachments/assets/922de305-94c5-4f9f-bca0-27e0db798bf5)
 
 WAVEFORM:
 
